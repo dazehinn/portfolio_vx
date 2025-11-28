@@ -11,6 +11,7 @@
   border: 2px solid #fff;
   rotate: 10deg;
   z-index: -10;
+  background-color: rgb(223, 181, 243);
 }
 
 .author-image img:hover {
